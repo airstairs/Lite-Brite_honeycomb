@@ -5,7 +5,7 @@ honeycomb
 
 
 
-![ex](exampl.png)  
+![ex](example.png)  
 
 ![ic](ic.png)  
 
