@@ -1,0 +1,50 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/LiteBrite/app/src/main/assets/index.html",
+      "selection": {
+        "end": {
+          "column": 18,
+          "index": 45358,
+          "line": 1037
+        },
+        "start": {
+          "column": 18,
+          "index": 45358,
+          "line": 1037
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/LiteBrite/app/src/main/res/values/strings.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/LiteBrite/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 54,
+          "index": 774,
+          "line": 18
+        },
+        "start": {
+          "column": 54,
+          "index": 774,
+          "line": 18
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/LiteBrite/app/src/main/AndroidManifest.xml"
+}

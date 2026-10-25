@@ -5,9 +5,11 @@ honeycomb
 
 
 
-![ex](example.png)  
 
 ![ic](ic.png)  
 
 
-![rec](recording.gif)  
+
+
+
+<img src="recording.gif" style="width:280px">
